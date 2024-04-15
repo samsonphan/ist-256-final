@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Classic Dice Set",
+    "price": 12.99
+  },
+  {
+    "name": "Metal Dice Set",
+    "price": 29.99
+  },
+  {
+    "name": "Glow-in-the-Dark Dice Set",
+    "price": 17.49
+  },
+  {
+    "name": "Gemstone Dice Set",
+    "price": 49.99
+  },
+  {
+    "name": "Mythic Dice Set",
+    "price": 34.99
+  },
+  {
+    "name": "Legendary Dice Set",
+    "price": 44.99
+  },
+  {
+    "name": "Pink Dice Set",
+    "price": 14.99
+  },
+  {
+    "name": "Sparkly Dice Set",
+    "price": 14.99
+  },
+  {
+    "name": "Noble Dice Set",
+    "price": 24.99
+  },
+  {
+    "name": "Dwarven-Crafted Dice Set",
+    "price": 84.99
+  }
+]
